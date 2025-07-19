@@ -45,7 +45,7 @@ MediGo is a real-time emergency response platform that connects users in medical
 ## 📸 Screenshots
 
 ### 👤 User Dashboard
-![User Dashboard](./screenshots/a.png)
+![User Dashboard](/ss/a.png)
 
 ### 🚑 Ambulance Dashboard
-![Ambulance Dashboard](./screenshots/b.png)
+![Ambulance Dashboard](/ss/b.png)
